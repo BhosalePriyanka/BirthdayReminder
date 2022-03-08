@@ -1,0 +1,608 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"C",
+				"Component"
+			],
+			[
+				"st",
+				"state"
+			],
+			[
+				"firt",
+				"firstName"
+			],
+			[
+				"Form",
+				"FormRadio"
+			],
+			[
+				"use",
+				"useState"
+			],
+			[
+				"s",
+				"state"
+			],
+			[
+				"ev",
+				"event"
+			],
+			[
+				"rea",
+				"React"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"re",
+				"react-dom"
+			],
+			[
+				"Use",
+				"useCallback"
+			],
+			[
+				"In",
+				"incrementItem"
+			],
+			[
+				"incre",
+				"increment"
+			],
+			[
+				"handle",
+				"handleHeight"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"ha",
+				"handleAge"
+			],
+			[
+				"han",
+				"handleHeight"
+			],
+			[
+				"na",
+				"handleAge"
+			],
+			[
+				"set",
+				"setHeight"
+			],
+			[
+				"co",
+				"counterTwo"
+			],
+			[
+				"con",
+				"const"
+			],
+			[
+				"setCount",
+				"setcounterOne"
+			],
+			[
+				"coun",
+				"counterOne"
+			],
+			[
+				"curr",
+				"current"
+			],
+			[
+				"Con",
+				"Component2"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"pro",
+				"provider"
+			],
+			[
+				"exp",
+				"export"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"Goa",
+				"GoalMissed"
+			],
+			[
+				"Goal",
+				"GoalMade"
+			],
+			[
+				"retun",
+				"return"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"i",
+				"input"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"li",
+				"li"
+			],
+			[
+				"background-",
+				"background-color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"col",
+				"column1"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"fig",
+				"figcaption"
+			],
+			[
+				"fi",
+				"figcaption"
+			],
+			[
+				"St",
+				"Standrad"
+			],
+			[
+				"al",
+				"alt"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"TE",
+				"text-align"
+			],
+			[
+				"TEXT",
+				"text-align"
+			],
+			[
+				"sp",
+				"space-evenly"
+			],
+			[
+				"ju",
+				"justify-items"
+			],
+			[
+				"tet",
+				"text-align"
+			],
+			[
+				"space",
+				"space-evenly"
+			],
+			[
+				"ch",
+				"check"
+			],
+			[
+				"fil",
+				"fieldset"
+			],
+			[
+				"margin-",
+				"margin-top"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"in",
+				"infinite"
+			],
+			[
+				"l",
+				"link"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"over",
+				"overLay"
+			],
+			[
+				"bo",
+				"border-radius"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"m",
+				"message"
+			],
+			[
+				"mess",
+				"message"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"marg",
+				"margin-bottom"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"b",
+				"border-radius"
+			],
+			[
+				"fle",
+				"flex-direction"
+			],
+			[
+				"ON",
+				"onclick"
+			],
+			[
+				"NO",
+				"nowrap"
+			],
+			[
+				"WOR",
+				"word-spacing"
+			],
+			[
+				"fl",
+				"inline-flex"
+			],
+			[
+				"backgr",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 56.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/PriyankaBhosale/my-react-app/src/index.js",
+		"/Users/PriyankaBhosale/my-react-app/src/ReactMemo.js",
+		"/Users/PriyankaBhosale/my-react-app/src/Memo.js",
+		"/Users/PriyankaBhosale/my-react-app/src/AgeChild.js",
+		"/Users/PriyankaBhosale/my-react-app/src/ChangeState.js",
+		"/Users/PriyankaBhosale/my-react-app/src/Parent.js",
+		"/Users/PriyankaBhosale/my-react-app/src/ArrayMap.js",
+		"/Users/PriyankaBhosale/my-react-app/src/Icon.js",
+		"/Users/PriyankaBhosale/my-react-app/src/ReducerHook.js",
+		"/Users/PriyankaBhosale/my-react-app/package-lock.json",
+		"/Users/PriyankaBhosale/my-react-app/src/FormRadio.js",
+		"/Users/PriyankaBhosale/my-react-app/src/FormTextArea.js",
+		"/Users/PriyankaBhosale/my-react-app/src/FormSelect.js",
+		"/Users/PriyankaBhosale/my-react-app/src/Form.js",
+		"/Users/PriyankaBhosale/my-react-app/src/FormSubmit.js",
+		"/Users/PriyankaBhosale/my-react-app/src/UseCallback.js",
+		"/Users/PriyankaBhosale/my-react-app/src/UseMemo.js",
+		"/Users/PriyankaBhosale/my-react-app/src/RefHook.js",
+		"/Users/PriyankaBhosale/my-react-app/src/Test.js",
+		"/Users/PriyankaBhosale/my-react-app/src/test.js",
+		"/Users/PriyankaBhosale/my-react-app/src/Context.js",
+		"/Users/PriyankaBhosale/my-react-app/src/Stateeffect.js",
+		"/Users/PriyankaBhosale/my-react-app/src/State.js",
+		"/Users/PriyankaBhosale/my-react-app/src/pages/Style.css",
+		"/Users/PriyankaBhosale/my-react-app/src/pages/Layout.js",
+		"/Users/PriyankaBhosale/my-react-app/src/pages/Contact.js",
+		"/Users/PriyankaBhosale/my-react-app/src/pages/Home.js",
+		"/Users/PriyankaBhosale/my-react-app/src/App.js",
+		"/Users/PriyankaBhosale/my-react-app/src/App.test.js",
+		"/Users/PriyankaBhosale/my-react-app/src/Swasti.js",
+		"/Users/PriyankaBhosale/ProjectWork/JQuery_Task/texting.js",
+		"/Users/PriyankaBhosale/ProjectWork/JQuery_Task/testing1.html",
+		"/Users/PriyankaBhosale/ProjectWork/JQuery_Task/testing.html",
+		"/Users/PriyankaBhosale/ProjectWork/JQuery_Task/testing.css",
+		"/Users/PriyankaBhosale/ProjectWork/JQuery_Task/testing1.txt",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/SMPS/HTML/smps.html",
+		"/Users/PriyankaBhosale/ProjectWork/Java-Script-Project/Grocery/grocery.js",
+		"/Users/PriyankaBhosale/ProjectWork/Java-Script-Project/Grocery/grocery.html",
+		"/Users/PriyankaBhosale/Desktop/untitled.html",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/SMPS/HTML/contact_us.html",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/SMPS/CSS/smps.css",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/AngularTestApp/src/main/resources/static/html/ContactUs.html",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/AngularTestApp/src/main/resources/static/css/Hotel_Bay.css",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/AngularTestApp/src/main/resources/static/html/Hotel_Bay.html",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/AngularTestApp/src/main/resources/static/html/Accomodation.html",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/AngularTestApp/src/main/resources/static/html/home.html",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/SMPS/HTML/home.html",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/HotelBay/css/hotelbay.css",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/HotelBay/html/Hotel_Bay.html",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/HotelBay/html/Accomodation.html",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/SMPS/HTML/about_us.html",
+		"/Users/PriyankaBhosale/Desktop/menubar.css",
+		"/Users/PriyankaBhosale/Desktop/menubar.html",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/AngularTestApp/src/main/resources/static/html/Location.html",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/AngularTestApp/src/main/resources/static/html/ReservationForm.html",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/AngularTestApp/src/main/resources/static/css/home.css",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/AngularTestApp/src/main/resources/static/css/Contact Us.css",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/AngularTestApp/src/main/resources/static/css/Accomodation.css",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/AngularTestApp/src/main/resources/static/css/Reservation Form.css",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/AngularTestApp/src/main/resources/static/css/Location.css",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/HotelBay/js/testing.js",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/Image Slider/imageslider.html",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/Image Slider/imageslider.css",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/HotelBay/html/Location.html",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/HotelBay/html/ReservationForm.html",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/HotelBay/css/Accomodation.css",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/HotelBay/html/home.html",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/HotelBay/html/ContactUs.html",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/HotelBay/css/reserve.css",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/HotelBay/css/location.css",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/HotelBay/css/ContactUs.css",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/HotelBay/js/Hotel_Bay.js",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/HotelBay/css/Reservation Form.css.html",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/HotelBay/css/Hotel_Bay.css.html",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/HotelBay/css/Location.css.html",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/HotelBay/Hotel Bay.docx",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/SMPS/HTML/career.html",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/SMPS/HTML/service.html",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/SMPS/HTML/Responsive.html",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/SMPS/HTML/responsive.css",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/SMPS/HTML/logo.jpg",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/SMPS/HTML/Image2.jpg",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/SMPS/HTML/image1.jpg",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/SMPS/AngularJs/route.js",
+		"/Users/PriyankaBhosale/ProjectWork/Website Work/MSPS/index.html",
+		"/Users/PriyankaBhosale/ProjectWork/Java-Script-Project/Pass Message/message.html",
+		"/Users/PriyankaBhosale/ProjectWork/Java-Script-Project/Pass Message/message.js",
+		"/Users/PriyankaBhosale/ProjectWork/Java-Script-Project/Pass Message/message.css",
+		"/Users/PriyankaBhosale/ProjectWork/Java-Script-Project/Form Validation/validate.js",
+		"/Users/PriyankaBhosale/ProjectWork/Java-Script-Project/Form Validation/validate.css",
+		"/Users/PriyankaBhosale/ProjectWork/Java-Script-Project/Form Validation/form-validate.html",
+		"/Users/PriyankaBhosale/ProjectWork/Java-Script-Project/Form Validation/action.html",
+		"/Users/PriyankaBhosale/ProjectWork/Java-Script-Project/Form Validation/form-validation.html",
+		"/Users/PriyankaBhosale/ProjectWork/Java-Script-Project/Grocery/grocery.css",
+		"/Users/PriyankaBhosale/ProjectWork/Java-Script-Project/p1.html",
+		"/Users/PriyankaBhosale/ProjectWork/Java-Script-Project/testing.html",
+		"/Users/PriyankaBhosale/ProjectWork/Java-Script-Project/testing.css",
+		"/Users/PriyankaBhosale/ProjectWork/Java-Script-Project/Grocery/code.js",
+		"/Users/PriyankaBhosale/ProjectWork/Java-Script-Project/Car/car.html",
+		"/Users/PriyankaBhosale/ProjectWork/Java-Script-Project/Car/car.css",
+		"/Users/PriyankaBhosale/ProjectWork/Java-Script-Project/Car/car.js",
+		"/Users/PriyankaBhosale/ProjectWork/Java-Script-Project/node"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "App.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

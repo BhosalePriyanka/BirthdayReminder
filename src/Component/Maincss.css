@@ -1,0 +1,36 @@
+
+
+body{background-color: pink;}
+.main{
+background-color: whitesmoke;
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+width: 20rem;
+
+margin: auto;
+
+}
+
+.today {background-color: yellow; width: 20rem; text-align: center;}
+.upcoming{background-color: skyblue; width: 20rem;text-align: center; margin-top: 5rem;}
+img{
+	width: 5rem;
+	height: 5rem;
+	border-radius: 50%;
+
+}
+.maincontainer{margin-top: 1rem;display: flex;flex-direction:row;align-items:
+ center;justify-content: space-evenly;}
+.subcontainer{line-height: 0rem;float: right;align-items: center;justify-content:center;}
+
+button{ background-color: skyblue;margin-top: 1rem;padding: 0.5rem;}
+
+@media screen and (max-width: 800px){
+	h1{font-size: 1.5rem;}
+	h2{font-size: 1rem;}
+	h3{font-size: .8rem;}
+	p{font-size: .8rem;}
+
+}
