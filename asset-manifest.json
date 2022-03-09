@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/BhosalePriyanka/BirthdayReminder/static/css/main.b28b18b7.css",
-    "main.js": "/BhosalePriyanka/BirthdayReminder/static/js/main.9af8479d.js",
+    "main.js": "/BhosalePriyanka/BirthdayReminder/static/js/main.99a4865e.js",
     "static/media/Female.jpg": "/BhosalePriyanka/BirthdayReminder/static/media/Female.f3070a4277a88f72f576.jpg",
     "static/media/Male.jpg": "/BhosalePriyanka/BirthdayReminder/static/media/Male.de7a444c2a298b0a768a.jpg",
     "index.html": "/BhosalePriyanka/BirthdayReminder/index.html",
     "main.b28b18b7.css.map": "/BhosalePriyanka/BirthdayReminder/static/css/main.b28b18b7.css.map",
-    "main.9af8479d.js.map": "/BhosalePriyanka/BirthdayReminder/static/js/main.9af8479d.js.map"
+    "main.99a4865e.js.map": "/BhosalePriyanka/BirthdayReminder/static/js/main.99a4865e.js.map"
   },
   "entrypoints": [
     "static/css/main.b28b18b7.css",
-    "static/js/main.9af8479d.js"
+    "static/js/main.99a4865e.js"
   ]
 }
